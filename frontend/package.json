@@ -6,5 +6,17 @@
   "repository": "https://github.com/Artex3428/opinions",
   "author": "Artex3428",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "@sveltejs/vite-plugin-svelte": "^5.1.0",
+    "add": "^2.0.6",
+    "svelte": "^5.35.2",
+    "vite": "^7.0.2",
+    "yarn": "^1.22.22"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
 }
