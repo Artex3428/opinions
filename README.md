@@ -1,3 +1,3 @@
 **opinions**
 
-This is a website where you can write your opinions easy by filling in a form to display them for yourself or others. People will be able to share, comment, like or dislike your opinions. The form should include the title/opinion, description, argument for or against the opinion, (history, current and future of the opinion), how you would achieve a goal you want or a vision you have about that opinion.
+This is a website where you can write your opinions easy by filling in a form to display them for yourself or others. People will be able to comment, like or dislike your opinions. The form should include the title/opinion, description, argument for or against the opinion, (history, current and future of the opinion), how you would achieve a goal you want or a vision you have about that opinion.
